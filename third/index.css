@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+
+.container-1 {
+    padding: 15px 0px;
+    width: 100%;
+    height: 70px;
+    background-color: #ccc;
+}
+
+.box-1 {
+    display: block;
+    margin-left: 20px;
+    width: 70px;
+    height: 70px;
+    background-color: skyblue;
+}
+
+.container-2 {
+    width: 100%;
+    height: 210px;
+}
+
+p {
+    padding-top: 50px;
+    margin: 0 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-indent: inital;
+}
+
+.container-3 {
+    width: 100%;
+    height: 100px;
+    background-color: skyblue;
+}
+
+.container-4 {
+    width: 100%;
+    height: 100px;
+    background-color: #02C39A;
+}
+
+.container-5 {
+    width: 100%;
+    height: 100px;
+    background-color: burlywood;
+}
+
+.container-6 {
+    width: 100%;
+    height: 100px;
+    background-color: #FFCF56;
+}
+
+
+
+
+
+
+
+
+
